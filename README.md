@@ -5,4 +5,4 @@
 
 ## Profil Pengembang
 - Keahlian: Git, VS Code, Web Development
-- Status: dari si B
+- Status: PERUBAHAN OLEH SI B

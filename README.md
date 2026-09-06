@@ -5,4 +5,4 @@
 
 ## Profil Pengembang
 - Keahlian: Git, VS Code, Web Development
-- Status: Mahasiswa Aktif
+- Status: Diperbarui oleh Anggota B untuk modul revisi
